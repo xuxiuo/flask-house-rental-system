@@ -1,0 +1,13 @@
+# PyCharm
+.idea/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+env/
+
+# Windows
+Thumbs.db
