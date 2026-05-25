@@ -1,0 +1,76 @@
+/* 回到顶部按钮 */
+#back-to-top {
+    display: none;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 999;
+    width: 48px;
+    height: 48px;
+    border: none;
+    border-radius: 50%;
+    background: #17a2b8;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s, opacity 0.3s;
+}
+
+#back-to-top:hover {
+    background: #138496;
+}
+
+/* 分享按钮 */
+.btn-share {
+    margin-left: 10px;
+    padding: 6px 14px;
+    border: 1px solid #17a2b8;
+    border-radius: 3px;
+    background: #fff;
+    color: #17a2b8;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-share:hover {
+    background: #17a2b8;
+    color: #fff;
+}
+
+/* 评分区域 */
+.rating-section {
+    padding: 20px;
+    border-top: 1px solid #ecf0f1;
+}
+
+.rating-stars {
+    font-size: 28px;
+    cursor: pointer;
+    color: #ddd;
+    user-select: none;
+}
+
+.rating-stars .star.active,
+.rating-stars .star:hover {
+    color: #f1c40f;
+}
+
+.rating-info {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+}
+
+.rating-input-group {
+    margin-top: 12px;
+    max-width: 320px;
+}
+
+/* 页脚增强 */
+footer .footer-desc {
+    font-size: 14px;
+    color: #868e96;
+    margin-bottom: 6px;
+}
