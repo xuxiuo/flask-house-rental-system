@@ -7,6 +7,8 @@
 项目整合 **ECharts 数据可视化、线性回归房价预测、皮尔逊协同过滤推荐算法**，实现房源展示、多条件搜索、分页浏览、房源评分、收藏管理、浏览记录、智能推荐、房价走势预测等完整功能。
 
 前后端采用模板渲染 + AJAX 异步交互，通过 Cookie 保持登录状态，MySQL 持久化存储房源、用户、评分及浏览推荐数据，是一套功能完整、结构规范、适合课程设计与实训的 Python Web 实战项目。
+<img width="2021" height="1197" alt="image" src="https://github.com/user-attachments/assets/95570eb4-2242-4b96-86b1-5005a3e2e9fe" />
+
 
 ## 技术栈
 
@@ -81,6 +83,11 @@
    - 更换导航栏背景与样式
    - 自定义页脚版权文字
    - 统一全站提示文案与静态文字
+
+<img width="2698" height="1338" alt="image" src="https://github.com/user-attachments/assets/d74f571d-b9b0-4b07-9fd3-38da1d1a74cd" />
+<img width="2567" height="1532" alt="image" src="https://github.com/user-attachments/assets/3e0952ba-c52b-4c70-af00-bcce82c095ac" />
+
+
 
 ## 运行步骤
 
